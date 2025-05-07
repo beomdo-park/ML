@@ -27,7 +27,7 @@ ml-dl-by-dataset/
 
 ---
 
-## Currently Included Experiments(
+## Currently Included Experiments
 
 | Dataset / Domain      | Task                        | Method(s)                        |
 |------------------------|-----------------------------|----------------------------------|
